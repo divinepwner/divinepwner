@@ -4,7 +4,7 @@ I am currently working at Nord Security. Nowadays, I am focused on the IOS/MacOS
 
 
 :notebook: ***Blog:***
-- https://divinepwner
+- https://pwner.fun
 
 <p align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />
