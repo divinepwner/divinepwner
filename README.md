@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <a href="http://twitter.com/divinepwner">
+  <a href="https://twitter.com/divinepwner">
     <img src="https://img.shields.io/twitter/follow/divinepwner?label=Twitter&logo=twitter&style=for-the-badge" />
   <a href="https://linkedin.com/in/divinepwner">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="GitHub badge" />
