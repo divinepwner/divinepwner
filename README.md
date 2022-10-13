@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am currently working at Nord Security. Currently I am focused on IOS/MacOS applications of Nord Security. In these days, I am working on Go and Objective-C. In my free times I am hunting 0-days on web applications generally. 
+I am currently working at Nord Security. Nowadays, I am focused on the IOS/MacOS applications of Nord Security. These days, I am working on Go and Objective-C. In my free time, I am hunting 0-days on web applications generally.
+
 
 :notebook: ***Blog:***
 - https://divinepwner
