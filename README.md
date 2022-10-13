@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**divinepwner/divinepwner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />
+</p>
+  
+<!---
+<p align="center">
+    <a href="https://github.com/divinepwner">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinepwner&&hide=cmake&langs_count=3&line_height=35&theme=dark" />
+    </a>
+</p>
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="center">
+  <a href="https://twitter.com/divinepwner">
+    <img src="https://img.shields.io/twitter/follow/divinepwner?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+  </a>
+</p>
+
+  
