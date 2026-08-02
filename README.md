@@ -14,7 +14,7 @@ Nothing counts as a finding until a proof of concept runs.
 
 ### Focus
 
-- **Embedded and IoT** — firmware extraction, reverse engineering, fuzzing, crash triage to PC control.
+- **Embedded and IoT** — firmware extraction, reverse engineering, fuzzing, exploit development.
 - **Appliance and enterprise web** — infrastructure consoles, and the applications behind them.
 - **Application security** — source review for auth, crypto, memory-safety and access-control flaws.
 - **AI and LLM security** — prompt injection, RAG poisoning, agent abuse, model supply chain.
@@ -25,9 +25,9 @@ Nothing counts as a finding until a proof of concept runs.
 
 | Advisory | Target | Flaw | CVSS | Artifacts |
 | --- | --- | --- | :---: | --- |
-| [CVE-2020-15568](https://nvd.nist.gov/vuln/detail/CVE-2020-15568) | TerraMaster TOS (NAS), before 4.1.29 | Unauthenticated code injection executing as root, via dynamic class method invocation in `include/exportUser.php` (CWE-913) | 9.8 | [Metasploit module](https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568) · [write-up](https://offensive.blog/2021/02/16/firmware-extraction-rce.html) |
-| [CVE-2021-30461](https://nvd.nist.gov/vuln/detail/CVE-2021-30461) | VoIPmonitor GUI, before 24.61 | Unauthenticated remote code execution via the `SPOOLDIR` value in the recheck option (CWE-94) | 9.8 | [SSD advisory](https://ssd-disclosure.com/ssd-advisory--voipmonitor-unauth-rce) |
-| [CVE-2021-41408](https://nvd.nist.gov/vuln/detail/CVE-2021-41408) | VoIPmonitor GUI, up to 24.61 | Unauthenticated SQL injection via the `user` parameter in `api.php` (CWE-89) | 9.8 | [PoC](https://gist.github.com/divinepwner/e51050e0d7df77ff1f1379583e8cf7db) cited by NVD |
+| [CVE-2020-15568](https://nvd.nist.gov/vuln/detail/CVE-2020-15568) | TerraMaster TOS (NAS) | Pre-auth root code injection in `exportUser.php` (CWE-913) | 9.8 | [module](https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568) · [write-up](https://offensive.blog/2021/02/16/firmware-extraction-rce.html) |
+| [CVE-2021-30461](https://nvd.nist.gov/vuln/detail/CVE-2021-30461) | VoIPmonitor GUI | Pre-auth RCE via `SPOOLDIR` (CWE-94) | 9.8 | [SSD advisory](https://ssd-disclosure.com/ssd-advisory--voipmonitor-unauth-rce) |
+| [CVE-2021-41408](https://nvd.nist.gov/vuln/detail/CVE-2021-41408) | VoIPmonitor GUI | Pre-auth SQL injection via `user` in `api.php` (CWE-89) | 9.8 | [PoC](https://gist.github.com/divinepwner/e51050e0d7df77ff1f1379583e8cf7db) at NVD |
 
 Further advisories are in vendor coordination and cannot be named until they ship.
 
