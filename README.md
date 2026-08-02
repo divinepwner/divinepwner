@@ -1,4 +1,3 @@
-
 # Murat Yilmazlar
 
 **Vulnerability Researcher & Application Security Engineer** — 10 years of both.
@@ -15,13 +14,10 @@ Nothing counts as a finding until a proof of concept runs.
 
 ### Focus
 
-**Embedded and IoT** — firmware extraction and emulation, binary reverse engineering, coverage-guided fuzzing, crash triage to PC control. The device, not the datasheet.
-
-**Appliance and enterprise web** — the consoles that manage infrastructure and the applications that run the business. One ships inside a product nobody owns; the other has a whole team and still gets access control wrong.
-
-**Application security** — source review for authentication, cryptographic, memory-safety and access-control flaws. SAST and SCA in the pipeline, bug bounty programmes built and run end to end at three companies. Design review while a system is still text and there is nothing built to defend.
-
-**AI and LLM security** — prompt injection and jailbreaks, RAG poisoning and cross-tenant exfiltration, agent and tool-calling abuse, model supply chain and inference infrastructure. The failures live at the boundaries, not in the model.
+- **Embedded and IoT** — firmware extraction, reverse engineering, fuzzing, crash triage to PC control.
+- **Appliance and enterprise web** — infrastructure consoles, and the applications behind them.
+- **Application security** — source review for auth, crypto, memory-safety and access-control flaws.
+- **AI and LLM security** — prompt injection, RAG poisoning, agent abuse, model supply chain.
 
 ---
 
