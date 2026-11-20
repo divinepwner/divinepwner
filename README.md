@@ -30,7 +30,7 @@ Nothing counts as a finding until a proof of concept runs.
 | [CVE-2020-15568](https://nvd.nist.gov/vuln/detail/CVE-2020-15568) | 9.8 | TerraMaster TOS | Pre-auth root RCE, `exportUser.php` | [module](https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568) · [write-up](https://offensive.blog/2021/02/16/firmware-extraction-rce.html) |
 | [CVE-2021-30461](https://nvd.nist.gov/vuln/detail/CVE-2021-30461) | 9.8 | VoIPmonitor GUI | Pre-auth RCE, `SPOOLDIR` recheck | [advisory](https://ssd-disclosure.com/ssd-advisory--voipmonitor-unauth-rce) |
 | [CVE-2021-41408](https://nvd.nist.gov/vuln/detail/CVE-2021-41408) | 9.8 | VoIPmonitor GUI | Pre-auth SQLi, `api.php` | [PoC](https://gist.github.com/divinepwner/e51050e0d7df77ff1f1379583e8cf7db) |
-| [GHSA-4p49-8phx-p9j9](https://github.com/ossrs/srs/pull/4794)     | 7.5 | ossrs/srs | RTCP heap overflow              ||
+| [GHSA-4p49-8phx-p9j9](https://github.com/ossrs/srs/pull/4794)     | 7.5 | ossrs/srs | RTCP heap overflow              | [advisory](https://github.com/ossrs/srs/pull/4794) |
 
 Further advisories are in vendor coordination and cannot be named until they ship.
 
